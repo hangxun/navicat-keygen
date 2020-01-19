@@ -20,3 +20,6 @@ For Linux users, see [here](README_FOR_LINUX.md).
 
 * zenuo
 
+## 12版本的navicat 见另外一个库
+## release 文件见文档云，17
+
